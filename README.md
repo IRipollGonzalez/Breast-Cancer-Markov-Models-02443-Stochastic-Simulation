@@ -1,0 +1,2 @@
+# Breast-Cancer-Markov-Models-02443-Stochastic-Simulation
+Probabilistic simulation and inference project for DTU course 02443 – Stochastic Simulation. The project implements a full Markov modeling framework for progression of breast cancer states, including a discrete-time Markov chain, a continuous-time Markov chain (CTMC), and statistical inference via MCEM using simulated patient trajectories.
