@@ -1,4 +1,4 @@
-# Breast-Cancer-Markov-Models-02443
+# Breast-Cancer-Markov-Models
 **Stochastic Simulation – DTU 02443**  
 **Group 15**
 
